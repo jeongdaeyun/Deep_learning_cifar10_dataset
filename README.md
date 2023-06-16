@@ -7,8 +7,13 @@ I changed number of class, filter size, stride, and padding in the the original 
 I also share the weights of these models, so you can just load the weights and use them.
 The code is highly re-producible and readable by using PyTorch-Lightning
 
-# Statistics of supported models
-![image](https://github.com/jeongdaeyun/Deep_learning_cifar10_dataset/assets/50974241/eb1c1b11-3f0d-494a-ae9a-c91d2c8abf63)
+# training of models, accuracy
+1. CNN -> Use Vscode
+![image](https://github.com/jeongdaeyun/Deep_learning_cifar10_dataset/assets/50974241/43ab4fcc-2bfd-4967-a9d4-ff4f8c5d66cb)
+
+2. Resnet -> Use Colab
+![image](https://github.com/jeongdaeyun/Deep_learning_cifar10_dataset/assets/50974241/bc505980-e5cf-42b5-bfa7-5198c1f51e5c)
+
 
 # Dataset download
 1. you import library
