@@ -9,9 +9,11 @@ The code is highly re-producible and readable by using PyTorch-Lightning
 
 # training of models, accuracy
 1. CNN -> Use Vscode
+   
 ![image](https://github.com/jeongdaeyun/Deep_learning_cifar10_dataset/assets/50974241/43ab4fcc-2bfd-4967-a9d4-ff4f8c5d66cb)
 
-2. Resnet -> Use Colab
+2. CNN에서 Resnet의 resudial block 개념을 이용 -> Use Colab
+
 ![image](https://github.com/jeongdaeyun/Deep_learning_cifar10_dataset/assets/50974241/bc505980-e5cf-42b5-bfa7-5198c1f51e5c)
 
 
